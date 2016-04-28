@@ -1,0 +1,555 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"color",
+				"border-color"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"bag",
+				"background-color"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"s",
+				"space-between"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backo",
+				"background-image"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"bacgr",
+				"background-color"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"se",
+				"serif"
+			],
+			[
+				"text-al",
+				"text-align"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"text-de",
+				"text-decoration"
+			],
+			[
+				"tex",
+				"text-underline-position"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"wiht",
+				"width"
+			],
+			[
+				"magin-",
+				"margin-bottom"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"font-f",
+				"font-feature-settings"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"wih",
+				"width"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"an",
+				"animation"
+			],
+			[
+				"boo",
+				"bottom"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"hr",
+				"hr"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"mag",
+				"margin-top"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"inl",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 520.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/estudiante/Desktop/LaboRatoria/responsive-blog/css/main.css",
+		"/Users/estudiante/Desktop/LaboRatoria/responsive-blog/index.html",
+		"/Users/estudiante/Desktop/LaboRatoria/Problema/css/Verano.css",
+		"/Users/estudiante/Desktop/LaboRatoria/Problema/css/reporte.css",
+		"/Users/estudiante/Desktop/LaboRatoria/Problema/css/Primavera.css",
+		"/Users/estudiante/Desktop/LaboRatoria/Problema/css/Otoño.css",
+		"/Users/estudiante/Desktop/LaboRatoria/Problema/css/NosotrosU.css",
+		"/Users/estudiante/Desktop/LaboRatoria/Problema/css/invierno.css",
+		"/Users/estudiante/Desktop/LaboRatoria/Problema/css/Directo.css",
+		"/Users/estudiante/Desktop/LaboRatoria/Problema/css/Bienvenido.css",
+		"/Users/estudiante/Desktop/LaboRatoria/Problema/css/Actualidad.css",
+		"/Users/estudiante/Desktop/LaboRatoria/Problema/NosotrosU.html",
+		"/Users/estudiante/Desktop/LaboRatoria/Problema/Bienvenido.html",
+		"/Users/estudiante/Desktop/LaboRatoria/Problema/Invierno.html",
+		"/Users/estudiante/Desktop/LaboRatoria/Problema/Otoño.html",
+		"/Users/estudiante/Desktop/LaboRatoria/Problema/Verano.html",
+		"/Users/estudiante/Desktop/LaboRatoria/Problema/Primavera.html",
+		"/Users/estudiante/Desktop/LaboRatoria/Problema/pm.html",
+		"/Users/estudiante/Desktop/LaboRatoria/Problema/ph.html",
+		"/Users/estudiante/Desktop/LaboRatoria/Problema/actualidades.html",
+		"/Users/estudiante/Desktop/LaboRatoria/Problema/directo.html",
+		"/Users/estudiante/Desktop/LaboRatoria/Problema/reporte.html",
+		"/Users/estudiante/Desktop/LaboRatoria/Problema/css/bootstrap.min.css",
+		"/Users/estudiante/Desktop/LaboRatoria/whatsapp-zip/css/bootstrap.min.css",
+		"/Users/estudiante/Desktop/LaboRatoria/whatsapp-zip/css/main.css",
+		"/Users/estudiante/Desktop/LaboRatoria/whatsapp-zip/index.html",
+		"/Users/estudiante/Desktop/user-testing-360/css/main.css",
+		"/Users/estudiante/Desktop/user-testing-360/index.html",
+		"/Users/estudiante/Desktop/index.html",
+		"/Users/estudiante/Desktop/user-testing-360/css/main.css.REMOTE.534.css",
+		"/Users/estudiante/Desktop/user-testing-360/css/main.css.orig",
+		"/Users/estudiante/Desktop/user-testing-360/css/main.css.LOCAL.534.css",
+		"/Users/estudiante/Desktop/user-testing-360/css/main.css.BASE.534.css",
+		"/Users/estudiante/Desktop/user-testing-360/css/queries.css",
+		"/Users/estudiante/Desktop/user-testing-360/contact.html",
+		"/Users/estudiante/Desktop/user-testing-360/css/animate.css",
+		"/Users/estudiante/Desktop/LaboRatoria/8cajas/practica.html",
+		"/Users/estudiante/Desktop/LaboRatoria/8cajas/prueba.html",
+		"/Users/estudiante/Desktop/LaboRatoria/viendo-cajas/landing/css/main.css",
+		"/Users/estudiante/Desktop/LaboRatoria/viendo-cajas/landing/css/grid-system.css",
+		"/Users/estudiante/Desktop/LaboRatoria/viendo-cajas/landing/index.html",
+		"/Users/estudiante/Desktop/LaboRatoria/viendo-cajas/colores/index.html",
+		"/Users/estudiante/Desktop/LaboRatoria/responsive-blog/css/font-awesome.css",
+		"/Users/estudiante/Desktop/LaboRatoria/viendo-cajas/landing/css/bootstrap.min.css",
+		"/Users/estudiante/Desktop/LaboRatoria/viendo-cajas/landing/css/grid.css",
+		"/Users/estudiante/Desktop/Portfolio/css/creative.css",
+		"/Users/estudiante/Desktop/Portfolio/index.html",
+		"/Users/estudiante/Desktop/LaboRatoria/prefixfree.min.js",
+		"/Users/estudiante/Desktop/LaboRatoria/Escuela-danza/grid.css",
+		"/Users/estudiante/Desktop/LaboRatoria/Escuela-danza/css/grid-system.css",
+		"/Users/estudiante/Desktop/LaboRatoria/viendo-cajas/colores/main.css",
+		"/Users/estudiante/Desktop/paginapruebahtml/main.css",
+		"/Users/estudiante/Desktop/paginapruebahtml/index.html",
+		"/Users/estudiante/Desktop/paginapruebahtml/grid-system.css",
+		"/Users/estudiante/Desktop/Portfolio/css/bootstrap.min.css",
+		"/Users/estudiante/Desktop/LaboRatoria/E-cominidad/css/grid-system.css",
+		"/Users/estudiante/Desktop/Portfolio/css/grid-system.css",
+		"/Users/estudiante/Desktop/Portfolio/css/animate.min.css",
+		"/Users/estudiante/Desktop/LaboRatoria/portfolio/index.html",
+		"/Users/estudiante/Desktop/LaboRatoria/gentleman/css/grid-system.css",
+		"/Users/estudiante/Desktop/LaboRatoria/gentleman/css/main.css",
+		"/Users/estudiante/Desktop/LaboRatoria/gentleman/index.html",
+		"/Users/estudiante/Desktop/LaboRatoria/gentleman/css/common.css",
+		"/Users/estudiante/Desktop/LaboRatoria/gentleman/css/elegant-fonts.css",
+		"/Users/estudiante/Desktop/LaboRatoria/gentleman/css/font-awesome.min.css",
+		"/Users/estudiante/Desktop/LaboRatoria/gentleman/css/utilities.css",
+		"/Users/estudiante/Desktop/LaboRatoria/gentleman/css/ionicons.min.css",
+		"/Users/estudiante/Desktop/LaboRatoria/pretiffy/index.html",
+		"/Users/estudiante/Desktop/LaboRatoria/pretiffy/css/grid-system.css",
+		"/Users/estudiante/Desktop/LaboRatoria/Primes/index.html",
+		"/Users/estudiante/Desktop/LaboRatoria/Primes/img/main.css",
+		"/Users/estudiante/Desktop/LaboRatoria/Primes/css/main.css",
+		"/Users/estudiante/Desktop/LaboRatoria/Primes/css/ionicons.min.css",
+		"/Users/estudiante/Desktop/LaboRatoria/Primes/css/grid-system.css",
+		"/Users/estudiante/Desktop/LaboRatoria/Escuela-danza/index.html",
+		"/Users/estudiante/Desktop/LaboRatoria/Escuela-danza/css/main.css",
+		"/Users/estudiante/Desktop/LaboRatoria/Primes/css/utilities.css",
+		"/Users/estudiante/Desktop/LaboRatoria/Primes/css/common.css",
+		"/Users/estudiante/Desktop/LaboRatoria/Primes/css/elegant-fonts.css",
+		"/Users/estudiante/Desktop/LaboRatoria/Primes/css/font-awesome.min.css",
+		"/Users/estudiante/Desktop/LaboRatoria/pretiffy/css/main.css",
+		"/Users/estudiante/Desktop/LaboRatoria/chicama/index.html",
+		"/Users/estudiante/Desktop/LaboRatoria/chicama/css/main.css",
+		"/Users/estudiante/Desktop/LaboRatoria/chicama/css/grid-system.css",
+		"/Users/estudiante/Desktop/LaboRatoria/chicama/docs/chicama.pdf",
+		"/Users/estudiante/Desktop/LaboRatoria/Escuela-danza/css/common.css",
+		"/Users/estudiante/Desktop/LaboRatoria/Escuela-danza/nosotros.html",
+		"/Users/estudiante/Desktop/LaboRatoria/Escuela-danza/css/utilities.css",
+		"/Users/estudiante/Desktop/LaboRatoria/Escuela-danza/clases.html",
+		"/Users/estudiante/Desktop/LaboRatoria/Escuela-danza/blog.html",
+		"/Users/estudiante/Desktop/LaboRatoria/Escuela-danza/css/clases.css",
+		"/Users/estudiante/Desktop/LaboRatoria/Escuela-danza/css/blog.css",
+		"/Users/estudiante/Desktop/LaboRatoria/Escuela-danza/css/nosotros.css",
+		"/Users/estudiante/Downloads/grid.css",
+		"/Users/estudiante/Desktop/LaboRatoria/cinema/index.html",
+		"/Users/estudiante/Desktop/LaboRatoria/E-cominidad/css/utilities.css",
+		"/Users/estudiante/Desktop/LaboRatoria/E-cominidad/css/main.css",
+		"/Users/estudiante/Desktop/LaboRatoria/E-cominidad/index.html",
+		"/Users/estudiante/Desktop/LaboRatoria/layout 2/css/main.css",
+		"/Users/estudiante/Desktop/LaboRatoria/layout 2/index.html",
+		"/Users/estudiante/Desktop/LaboRatoria/cinema/font-awesome/css/font-awesome.css",
+		"/Users/estudiante/Desktop/LaboRatoria/cinema/css/style.css",
+		"/Users/estudiante/Desktop/LaboRatoria/cinema/css/utilities.css",
+		"/Users/estudiante/Desktop/LaboRatoria/cinema/css/grid-system.css",
+		"/Users/estudiante/Desktop/LaboRatoria/cinema/font-awesome/css/font-awesome.min.css",
+		"/Users/estudiante/Desktop/LaboRatoria/gritsystem/css/grid-system.css",
+		"/Users/estudiante/Desktop/LaboRatoria/gritsystem/css/style.css",
+		"/Users/estudiante/Desktop/LaboRatoria/gritsystem/index.html",
+		"/Users/estudiante/Downloads/grid-system/css/style.css",
+		"/Users/estudiante/Downloads/grid-system/css/grid-system.css",
+		"/Users/estudiante/Downloads/grid-system/index.html",
+		"/Users/estudiante/Desktop/LaboRatoria/layout/css/main.css",
+		"/Users/estudiante/Desktop/LaboRatoria/layout/coder-detail.html",
+		"/Users/estudiante/Desktop/LaboRatoria/layout/index.html",
+		"/Users/estudiante/Desktop/PRACTICA/imagenes.css",
+		"/Users/estudiante/Desktop/PRACTICA/imagenes.html",
+		"/Users/estudiante/Desktop/paginas viernes/html/index.html",
+		"/Users/estudiante/Desktop/paginas viernes/html/css/pagina.css",
+		"/Users/estudiante/Desktop/LaboRatoria/coders 2/img/profile-1.png",
+		"/Users/estudiante/Desktop/casita/css/main.css",
+		"/Users/estudiante/Desktop/casita/index.html",
+		"/Users/estudiante/Desktop/float/index-float.html",
+		"/Users/estudiante/Desktop/LaboRatoria/8cajas/index.html",
+		"/Users/estudiante/Desktop/LaboRatoria/8cajas/main.css",
+		"/Users/estudiante/Downloads/Soluci¢n 3/main.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"%;\n",
+			"sectio",
+			"silver",
+			">\n",
+			" \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "actualidades.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
