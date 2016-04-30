@@ -1,3 +1,63 @@
-.video{
+body{
+	background-image: url(../img/fondo2.jpg);
+	background-size:5000px;
+}
+	.video{
 	width: 100%;
 }
+#hd-color{
+	background-color:#F7FFEE;
+	color:black;
+	border:1px solid #635362;
+}
+h1{
+
+	font-family: 'Indie Flower', cursive;
+	font-size: 70px;
+	color:#562B4D;
+	margin-bottom: 20px;
+}
+h4{
+	color:#340323;
+	font-family: 'Armata', sans-serif;
+}
+a{
+	text-decoration: none;
+	color:#3E3E2B;
+
+}
+a:hover{
+	display: inline;
+	border:2px solid #6392FF;
+	background-color:#A1FFEF;
+	border-radius: 20px;
+	padding: 4px;
+	text-decoration: none;
+}
+#b-t{
+	background-color:#FFE8DA;
+	color:white;
+}
+.acti:hover{
+	background-color:#A1FFEF;
+	border:2px solid #6392FF;
+	border-radius: 20px;
+
+}
+hr{
+	border:1px solid grey;
+}
+.pull-left{
+	width: 20%;
+	height: 70px;
+}
+span{
+	color:grey;
+	font-size: 17px;
+}
+footer{
+	background-color:#FFE8DA;
+	height: 300px;
+	padding-top:70px;
+}
+
