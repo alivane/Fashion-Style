@@ -6,15 +6,14 @@ body{
 	width: 100%;
 }
 #hd-color{
-	background-color:#F7FFEE;
-	color:black;
+	background-color:#FA0D85;
+	color:white;
 	border:1px solid #635362;
 }
 h1{
-
 	font-family: 'Indie Flower', cursive;
 	font-size: 70px;
-	color:#562B4D;
+	color:#FF35B9;
 	margin-bottom: 20px;
 }
 h4{
@@ -24,22 +23,18 @@ h4{
 a{
 	text-decoration: none;
 	color:#3E3E2B;
-
 }
 a:hover{
-	display: inline;
-	border:2px solid #6392FF;
-	background-color:#A1FFEF;
-	border-radius: 20px;
-	padding: 4px;
 	text-decoration: none;
+	color:#FF46A9;
 }
+
 #b-t{
 	background-color:#FFE8DA;
 	color:white;
 }
 .acti:hover{
-	background-color:#A1FFEF;
+	background-color:#FFD1FF;
 	border:2px solid #6392FF;
 	border-radius: 20px;
 
@@ -52,12 +47,64 @@ hr{
 	height: 70px;
 }
 span{
-	color:grey;
+	color:#FE1752;
 	font-size: 17px;
 }
-footer{
-	background-color:#FFE8DA;
-	height: 300px;
-	padding-top:70px;
+.center{
+	text-align: center;
+}
+h3{
+	font-family: 'Josefin Sans', sans-serif;
+}
+h2{
+	font-family: 'Pacifico', cursive;
+	text-align: center;
+	font-size: 60px;
 }
 
+footer{
+	background-color:#FEF5F2;
+	height: 400px;
+	padding-top:70px;
+}
+@media(max-width: 600px){
+	#blog0{
+		display: none;
+	}
+	#blog2{
+		display: block;
+		text-align: right;
+	}
+	#blog1{
+		display: block;
+		margin-left: 40px;
+	}
+	#none{
+		display: none;
+	}
+}
+
+@media(min-width:600px) and (max-width: 768px){
+	#blog0{
+		display: none;
+	}
+	#blog2{
+		display: block;
+		text-align: right;
+	}
+	#blog1{
+		display: block;
+		margin-left: 40px;
+	}
+	#none{
+		display: none;
+	}
+}
+@media(min-width:768px) and (max-width:1200px) {
+	#none{
+		display: none;
+	}
+}
+@media(min-width:1200px){
+	
+}
