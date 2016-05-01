@@ -1,6 +1,6 @@
 body{
 	background-image: url(../img/fondo2.jpg);
-	background-size:5000px;
+	background-size:2500px;
 }
 #hd-color{
 	background-color:#FA0D85;
@@ -8,16 +8,6 @@ body{
 	border:1px solid #635362;
 }
 
-h1{
-	font-family: 'Indie Flower', cursive;
-	font-size: 70px;
-	color:#FF35B9;
-	margin-bottom: 20px;
-}
-h4{
-	color:#340323;
-	font-family: 'Armata', sans-serif;
-}
 a{
 	text-decoration: none;
 	color:#3E3E2B;
@@ -40,32 +30,15 @@ a:hover{
 hr{
 	border:1px solid grey;
 }
-.pull-left{
-	width: 20%;
-	height: 70px;
-}
+
 span{
 	color:#FE1752;
 	font-size: 17px;
-}
-.center{
-	text-align: center;
-}
-h3{
-	font-family: 'Josefin Sans', sans-serif;
 }
 h2{
 	font-family: 'Josefin Sans', sans-serif;
 	text-align: center;
 	font-size: 60px;
-}
-.abajo{
-	margin-top:35px;
-
-}
-#abajo{
-	margin-top:40px;
-	text-align: right;
 }
 @media(max-width: 600px){
 	

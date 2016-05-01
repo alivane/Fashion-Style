@@ -1,0 +1,51 @@
+body{
+	background-image: url(../img/fondo2.jpg);
+	background-size:3000px;
+}
+#hd-color{
+	background-color:#FA0D85;
+	color:white;
+	border:1px solid #635362;
+}
+h4{
+	color:#340323;
+	font-family: 'Armata', sans-serif;
+}
+.pull-left{
+	width: 20%;
+	height: 70px;
+}
+.center{
+	text-align: center;
+	color:#FE377E;
+}
+
+@media(max-width: 600px){
+	
+	#none{
+		display: none;
+	}
+	#center{
+		text-align: center;
+	}
+}
+@media(min-width:600px) and (max-width: 768px){
+	#center{
+		text-align: center;
+	}
+	#none{
+		display: none;
+	}
+
+}
+@media(min-width:768px) and (max-width:1200px) {
+	#center{
+		text-align: center;
+	}
+	#none{
+		display: none;
+	}
+}
+@media(min-width:1200px){
+	
+}
