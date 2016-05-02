@@ -1,0 +1,55 @@
+#hd-color{
+	background-color:#FA0D85;
+	color:white;
+	border:1px solid #635362;
+
+}
+h3{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 40px;
+}
+.panta{
+	box-shadow: 2px 2px 5px #999;
+	padding:20px;
+	height: 400px;
+	margin-top:20px;
+	margin-bottom: 20px;
+	
+}
+.panta1{
+	box-shadow: 2px 2px 5px #999;
+	padding:20px;
+	height: 700px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	
+}
+@media(max-width: 600px){
+	
+	#none{
+		display: none;
+	}
+	#center{
+		text-align: center;
+	}
+}
+@media(min-width:600px) and (max-width: 768px){
+	
+	#none{
+		display: none;
+	}
+	#center{
+		text-align: center;
+	}
+}
+@media(min-width:768px) and (max-width:1200px) {
+	#none{
+		display: none;
+	}
+	#center{
+		text-align: center;
+	}
+}
+@media(min-width:1200px){
+	
+}
